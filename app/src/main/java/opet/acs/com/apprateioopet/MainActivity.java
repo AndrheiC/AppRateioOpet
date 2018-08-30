@@ -41,6 +41,8 @@ public class MainActivity extends Activity {
 
     }
 
+    //Versao 2
+
     public void calculaRateio (View view){
         double comanda = Double.parseDouble(edtComanda.getText().toString());
         double pessoas = Double.parseDouble(edtPessoas.getText().toString());
